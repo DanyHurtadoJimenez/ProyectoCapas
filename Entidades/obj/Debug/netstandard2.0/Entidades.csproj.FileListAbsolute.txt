@@ -1,0 +1,10 @@
+C:\TareasC#\ejercicioCAPAS\EjercicioCapas\ProyectoCapasEjemplo\Entidades\bin\Debug\netstandard2.0\Entidades.deps.json
+C:\TareasC#\ejercicioCAPAS\EjercicioCapas\ProyectoCapasEjemplo\Entidades\bin\Debug\netstandard2.0\Entidades.dll
+C:\TareasC#\ejercicioCAPAS\EjercicioCapas\ProyectoCapasEjemplo\Entidades\bin\Debug\netstandard2.0\Entidades.pdb
+C:\TareasC#\ejercicioCAPAS\EjercicioCapas\ProyectoCapasEjemplo\Entidades\obj\Debug\netstandard2.0\Entidades.csproj.AssemblyReference.cache
+C:\TareasC#\ejercicioCAPAS\EjercicioCapas\ProyectoCapasEjemplo\Entidades\obj\Debug\netstandard2.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\TareasC#\ejercicioCAPAS\EjercicioCapas\ProyectoCapasEjemplo\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfoInputs.cache
+C:\TareasC#\ejercicioCAPAS\EjercicioCapas\ProyectoCapasEjemplo\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfo.cs
+C:\TareasC#\ejercicioCAPAS\EjercicioCapas\ProyectoCapasEjemplo\Entidades\obj\Debug\netstandard2.0\Entidades.csproj.CoreCompileInputs.cache
+C:\TareasC#\ejercicioCAPAS\EjercicioCapas\ProyectoCapasEjemplo\Entidades\obj\Debug\netstandard2.0\Entidades.dll
+C:\TareasC#\ejercicioCAPAS\EjercicioCapas\ProyectoCapasEjemplo\Entidades\obj\Debug\netstandard2.0\Entidades.pdb
